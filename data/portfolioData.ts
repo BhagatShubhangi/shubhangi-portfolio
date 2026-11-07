@@ -74,7 +74,7 @@ export const portfolioData = {
     photoUrl: "/profile.jpg",
     resumeUrl: "/resume.pdf",
     shortBio:
-      "Final-year CS (AI/ML) senior with industry experience engineering production-grade microservices, async job pipelines, and applied machine learning models. Former SDE Intern at TruAdaptiv Systems with end-to-end ownership of client AI platforms.",
+      "Final-year Computer Science and Engineering undergraduate specializing in AI and ML, with hands-on experience building full-stack applications and ML systems. Experienced in SQL databases, automated testing, and software delivery.",
     pitch:
       "Crafting high-throughput FastAPI/Node.js backends, resilient async pipelines, and applied machine learning systems that transform complex data into reliable software.",
     stats: [
